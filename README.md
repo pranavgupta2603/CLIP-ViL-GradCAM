@@ -2,7 +2,12 @@
 
 Heatmaps generated are essentially attention maps highlighting the important features that the CLIP-ViL model is taking into consideration for the given question.
 
-For the question - What is next to the bottle? This is the generated image with the heatmap - [Heatmap](sample_all.pdf)
+For the question - ```What is next to the bottle?``` This is the generated image with the heatmap - [Heatmap](sample_all.pdf)
+
+# Future Scope - 
+
+* Given a video, select the most important frame using the generate heatmaps on each frame
+* Implement a benchmark VQA dataset like [CLEVR](https://cs.stanford.edu/people/jcjohns/clevr/) dataset
 
 # Related Links
 
