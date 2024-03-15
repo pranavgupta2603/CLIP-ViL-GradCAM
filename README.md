@@ -4,6 +4,6 @@ Heatmaps generated are essentially attention maps highlighting the important fea
 
 For the question - What is next to the bottle? This is the generated image with the heatmap - [Heatmap](sample_all.pdf)
 
-Reference:
+# Reference
 
 [CLIP-ViL](https://github.com/clip-vil/CLIP-ViL)
